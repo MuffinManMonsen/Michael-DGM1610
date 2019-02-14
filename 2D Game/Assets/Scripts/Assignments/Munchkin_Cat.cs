@@ -9,7 +9,7 @@ public bool banded;
 
 	// Use this for initialization
 	void Start () {
-		print 
+		//print 
 	}
 	
 	// Update is called once per frame

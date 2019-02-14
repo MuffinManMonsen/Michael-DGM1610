@@ -58,7 +58,7 @@
      <Compile Include="Assets\Scripts\Assignments\Feline.cs" />
      <Compile Include="Assets\Scripts\Assignments\GenericPickup.cs" />
      <Compile Include="Assets\Scripts\Assignments\Munchkin_Cat.cs" />
-     <Compile Include="Assets\Scripts\Player Controller.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/10660496/Documents/Git/Michael-DGM1610/2D Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

@@ -7,14 +7,16 @@ public class coinPickup : GenericPickup {
 	public GameObject PC;
 
 
-	void OnTriggerEnter(Collider2D other) {
-		if(other.name == "PC")	
+	void OnTriggerEnter2D(Collider2D other) {
+		if(other.name == "PC"){
+
+		}	
 			//player collects coin
-	}
-	else{
+		else{
 		//not player
-	} 
-}
+			} 
+	}
+	
 
 	// Update is called once per frame
 	void Update () {

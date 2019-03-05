@@ -34,6 +34,6 @@ using UnityEngine;
 		//}
 		//else{ //change back to normal later
 			//print("Sorry, you are driving in Utah!");  //change back to normal later
-	}
-}
+	//}
+//}
 

@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\Assignments\Switch.cs" />
      <Compile Include="Assets\Scripts\CoinPickup.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/10660496/Documents/Git/Michael-DGM1610/2D Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>

@@ -13,6 +13,27 @@ public class Loops : MonoBehaviour {
 			// 	print(i +" bottles of elixir");
 			// }	
 
+			// Do While Loop
+			// bool shouldContinue = false;
+
+			// do
+			// {
+			// 	print ("Hello World")
+			
+			// }while(shouldContinue == true);
+
+			//ForEach Loop
+			string[] strings = new string[3];
+
+			strings[0] = "First string";
+			strings[1] = "Second string";
+			strings[3] = "Third string";
+
+			foreach(string item in strings)
+			{
+				print (item);
+			}
+
 			// while(bottles <= 100){
 			// 	print(bottles +" bottles of elixir");
 			// 	bottles ++;

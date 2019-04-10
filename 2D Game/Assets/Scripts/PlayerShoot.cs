@@ -1,0 +1,18 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class NewBehaviourScript : MonoBehaviour {
+	public Transform firePoint;
+	public GameObject projectile;
+
+	void Start () {
+		// Load projectile from Resources/Prefabs Folder
+		projectile = Resources.Load("Prefabs/Projectile") as GameObject;
+	}
+	// Update is called once per frame
+	void Update () {
+		if(Input.GetKeyDown(KeyCode.RightControl))
+			Instantiate(projectile,firePoint.position, firePoint.rotation);
+	}
+}

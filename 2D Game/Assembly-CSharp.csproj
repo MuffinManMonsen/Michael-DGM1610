@@ -61,6 +61,8 @@
      <Compile Include="Assets\Scripts\kill.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\PlayerShoot.cs" />
+     <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\ScoreManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/starw/Downloads/Michael-DGM1610/2D Game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
